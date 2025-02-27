@@ -26,8 +26,7 @@ Perfect for **beginners & job seekers** preparing for Java technical interviews!
 - **Programming Language:** Java  
 - **Java Version:** Java 8+  
 - **Build Tool:** Maven  
-- **Tools:** Eclipse / IntelliJ IDEA  
-
+- **Tools:** Eclipse 
 ---
 
 ## 📂 Features  
