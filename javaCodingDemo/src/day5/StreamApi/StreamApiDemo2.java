@@ -28,6 +28,8 @@ public class StreamApiDemo2 {
 		//Predicate<Integer> p= n -> n%2==0;
 		
 		/*
+		 * map
+		 * 
 		Function<Integer,Integer> fun = new Function<>() {
 			public Integer apply(Integer n) {
 				return n*2;

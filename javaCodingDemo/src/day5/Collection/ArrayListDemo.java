@@ -14,7 +14,7 @@ public class ArrayListDemo {
 		nums.add(7);
 		nums.add(3);
 		nums.add(45);
-		nums.add(18);
+		nums.add(3);
 		nums.add("hi");
 		
 		
